@@ -8,7 +8,6 @@
       "name": "Mustafa AKIN"
     }
   ],
-  "minimum-stability": "stable",
   "autoload": {
     "psr-4":{
       "Makinuk\\PageParser\\":"src"
